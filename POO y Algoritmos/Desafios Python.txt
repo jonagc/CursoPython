@@ -1,0 +1,9 @@
+
+Algunas paginas que conozco o de las que tengo buena referencia para practicar con challenges muy interesantes en Python u otro lenguaje:
+https://www.hackerrank.com
+https://codewars.com
+http://codeforces.com/
+https://coderbyte.com/
+https://www.codingame.com/
+https://www.codechef.com/
+https://www.topcoder.com/challenges/
