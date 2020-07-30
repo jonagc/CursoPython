@@ -27,7 +27,10 @@ Para linux:
 indica las librerias instaladas: pip freeze 
 salir ambiente virtual: deactivate
 
+libreria flask = servidor 
 
+pip install flask
 
 """
+
 

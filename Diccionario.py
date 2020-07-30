@@ -36,3 +36,24 @@ for items in my_dicc.items():
 
 #Ver si existe una llave en el diccionario
 'David' in my_dicc #Entrega booleano
+
+def calificaciones():
+    calificaciones = {}
+
+    calificaciones['matematicas'] = 10
+    calificaciones['algotimo'] = 9
+    calificaciones['web'] = 9
+    calificaciones['base_de_datos'] = 8
+
+    for key, value in calificaciones.items():
+        print('Llave: {}, valor: {}'.format(key, value))
+        
+
+    for key in calificaciones.keys():
+        print('Asignaturas: {}'.format(key))
+
+    for value in calificaciones.values():
+        print('Notas: {}'.format(value))
+
+if __name__ == '__main__':
+    calificaciones()
